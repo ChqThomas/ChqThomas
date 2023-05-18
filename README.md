@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [symfony/ux-svelte](https://github.com/symfony/ux-svelte) - Integration of Svelte in Symfony (4 weeks ago)
-- [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte (4 weeks ago)
+- [symfony/ux-svelte](https://github.com/symfony/ux-svelte) - Integration of Svelte in Symfony (1 month ago)
+- [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte (1 month ago)
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (1 month ago)
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying forms easier than ever! (1 month ago)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second  (1 month ago)
