@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal CSS Framework for Design Systems ⚡️ (1 day ago)
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal CSS Framework for Design Systems ⚡️ (2 days ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (1 week ago)
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own. (1 week ago)
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (3 weeks ago)
