@@ -2,8 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- ![](./assets/pr-open.svg) [[Svelte] Svelte v4 support](https://github.com/symfony/ux/pull/1018) on [symfony/ux](https://github.com/symfony/ux) (today)
 - ![](./assets/pr-merged.svg) [[Svelte] Example page for ux.symfony.com](https://github.com/symfony/ux/pull/795) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
-- ![](./assets/pr-closed.svg) [[Svelte] Introduce Svelte UX component](https://github.com/symfony/ux/pull/498) on [symfony/ux](https://github.com/symfony/ux) (9 months ago)
 
 #### ⭐ Recent Stars
 
