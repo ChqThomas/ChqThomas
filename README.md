@@ -9,6 +9,6 @@
 
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (3 weeks ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (3 weeks ago)
-- [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite. (4 weeks ago)
+- [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite. (1 month ago)
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ (2 months ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (3 months ago)
