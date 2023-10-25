@@ -2,7 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- ![](./assets/pr-merged.svg) [Migrate from Jest to Vitest](https://github.com/symfony/ux/pull/1202) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Migrate from Jest to Vitest](https://github.com/symfony/ux/pull/1202) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[Svelte] Svelte v4 support](https://github.com/symfony/ux/pull/1018) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
 
 #### ⭐ Recent Stars
