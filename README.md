@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [vlang/vox-browser](https://github.com/vlang/vox-browser) - Upcoming browser written from scratch in V UI (6 days ago)
+- [vlang/vox-browser](https://github.com/vlang/vox-browser) - Upcoming browser written from scratch in V UI (1 week ago)
 - [owlnext-fr/geographiclib-php-extension](https://github.com/owlnext-fr/geographiclib-php-extension) - A bridge between Geographic lib in C and a corresponding PHP extension using Rust. (1 week ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (1 month ago)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (1 month ago)
