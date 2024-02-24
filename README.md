@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - PGlite - Postgres in WASM (today)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - PGlite - Postgres in WASM (1 day ago)
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API (1 month ago)
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software (2 months ago)
 - [Pierstoval/php-js-boilerplate](https://github.com/Pierstoval/php-js-boilerplate) -  (2 months ago)
