@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (1 day ago)
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 days ago)
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 week ago)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains (1 month ago)
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (1 month ago)
