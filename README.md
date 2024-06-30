@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (6 days ago)
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (1 week ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (2 months ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (2 months ago)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 months ago)
