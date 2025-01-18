@@ -2,13 +2,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- ![](./assets/pr-open.svg) [[Svelte] Svelte 5 support](https://github.com/symfony/ux/pull/2288) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
+- ![](./assets/pr-open.svg) [[Svelte] Svelte 5 support](https://github.com/symfony/ux/pull/2288) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
 - ![](./assets/pr-merged.svg) [Migrate from Jest to Vitest](https://github.com/symfony/ux/pull/1202) on [symfony/ux](https://github.com/symfony/ux) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [FriendsOfOpenTelemetry/opentelemetry-bundle](https://github.com/FriendsOfOpenTelemetry/opentelemetry-bundle) - Traces, metrics, and logs instrumentation within your Symfony application (4 days ago)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (6 days ago)
+- [FriendsOfOpenTelemetry/opentelemetry-bundle](https://github.com/FriendsOfOpenTelemetry/opentelemetry-bundle) - Traces, metrics, and logs instrumentation within your Symfony application (5 days ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (1 week ago)
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI (2 months ago)
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (3 months ago)
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (3 months ago)
