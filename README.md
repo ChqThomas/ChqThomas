@@ -11,4 +11,4 @@
 - [robiningelbrecht/phpunit-pretty-print](https://github.com/robiningelbrecht/phpunit-pretty-print) - Better PHPUnit CLI output with Collision (2 weeks ago)
 - [FriendsOfOpenTelemetry/opentelemetry-bundle](https://github.com/FriendsOfOpenTelemetry/opentelemetry-bundle) - Traces, metrics, and logs instrumentation within your Symfony application (1 month ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 months ago)
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI (4 months ago)
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (4 months ago)
