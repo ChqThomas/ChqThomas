@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (2 weeks ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (3 weeks ago)
 - [robiningelbrecht/phpunit-pretty-print](https://github.com/robiningelbrecht/phpunit-pretty-print) - Better PHPUnit CLI output with Collision (1 month ago)
 - [FriendsOfOpenTelemetry/opentelemetry-bundle](https://github.com/FriendsOfOpenTelemetry/opentelemetry-bundle) - Traces, metrics, and logs instrumentation within your Symfony application (2 months ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 months ago)
