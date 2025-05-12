@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (3 days ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (1 month ago)
+- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework (4 days ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (2 months ago)
 - [robiningelbrecht/phpunit-pretty-print](https://github.com/robiningelbrecht/phpunit-pretty-print) - Better PHPUnit CLI output with Collision (2 months ago)
 - [FriendsOfOpenTelemetry/opentelemetry-bundle](https://github.com/FriendsOfOpenTelemetry/opentelemetry-bundle) - Traces, metrics, and logs instrumentation within your Symfony application (3 months ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (4 months ago)
