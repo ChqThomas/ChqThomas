@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (4 months ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (5 months ago)
 - [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root! (6 months ago)
-- [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (8 months ago)
+- [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (9 months ago)
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte-native plotting framework based on the grammar of graphics (9 months ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (11 months ago)
